@@ -75,7 +75,7 @@ hr {
   border-color: rgba(231, 231, 231, 0);
   box-shadow: 0 0 30px rgba(0, 0, 0, 0.2);
 }
-#menu a.navbar-brand img.logo{
+#menu img.logo{
 /*   font-family: "Montserrat", sans-serif;
   font-size: 32px;
   font-weight: 700;
