@@ -76,6 +76,7 @@ hr {
   height:100px;
   width:auto;
   position:absolute;
+  padding-bottom: 20px;
 }
 
 #menu.navbar-default {
