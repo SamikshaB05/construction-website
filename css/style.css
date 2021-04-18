@@ -71,7 +71,8 @@ hr {
   border: 0;
 }
 /* Navigation */
-#menu {
+#menu nav{
+  height: 400px;
 /*   padding: 20px 5px; */
   transition: all 0.8s;
 }
