@@ -72,7 +72,7 @@ hr {
 }
 /* Navigation */
 #menu {
-  padding: 20px 5px;
+/*   padding: 20px 5px; */
   transition: all 0.8s;
 }
 #menu.navbar-default {
