@@ -66,6 +66,10 @@ hr {
   border: 0;
 }
 /* Navigation */
+.logo {
+  height: 8rem;
+  width: auto;
+}
 #menu {
   padding: 20px;
   transition: all 0.8s;
