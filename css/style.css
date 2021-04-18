@@ -9,7 +9,7 @@ html {
   height: 100% !important;
 }
 .logo{
-  position: absolute;
+/*   position: absolute; */
  height: 100px;
   width:100px;
 }
@@ -72,7 +72,7 @@ hr {
   border: 0;
 }
 /* Navigation */
-#menu nav{
+#menu{
 /*   position:relative; */
   height:1000px;
 padding: 20px;
@@ -83,7 +83,7 @@ padding: 20px;
   border-color: rgba(231, 231, 231, 0);
   box-shadow: 0 0 30px rgba(0, 0, 0, 0.2);
 }
-#menu .logo img{
+#menu img{
 /*   font-family: "Montserrat", sans-serif;
   font-size: 32px;
   font-weight: 700;
