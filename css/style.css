@@ -70,6 +70,12 @@ hr {
 #menu {
   padding: 20px;
   transition: all 0.8s;
+  position:relative;
+}
+.logo{
+  height:100px;
+  width:auto;
+  position:absolute;
 }
 
 #menu.navbar-default {
