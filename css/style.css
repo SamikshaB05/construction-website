@@ -82,10 +82,6 @@ hr {
   color: #1f386e;
   text-transform: uppercase;
   letter-spacing: -1px; */
-  height: 150px;
-  width: auto;
-  padding:2px;
-  background-color: red;
 }
 #menu.navbar-default .navbar-nav > li > a {
   font-family: "Montserrat", sans-serif;
