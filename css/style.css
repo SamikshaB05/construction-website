@@ -8,11 +8,6 @@ html {
   width: 100% !important;
   height: 100% !important;
 }
-.logo{
-/*   position: absolute; */
- height: 100px;
-  width:100px;
-}
   
 h2 {
   font-family: "Montserrat", sans-serif;
@@ -72,7 +67,7 @@ hr {
   border: 0;
 }
 /* Navigation */
-#menu{
+nav{
 /*   position:relative; */
   height:1000px;
 padding: 20px;
