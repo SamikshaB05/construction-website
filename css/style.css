@@ -84,6 +84,7 @@ hr {
   letter-spacing: -1px; */
   height: 15rem;
   width: auto;
+  padding-bottom: 2%;
 }
 #menu.navbar-default .navbar-nav > li > a {
   font-family: "Montserrat", sans-serif;
