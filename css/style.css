@@ -68,10 +68,10 @@ hr {
 }
 /* Navigation */
 #menu {
-  padding: 20px;
+  padding: 10px 15px;
   transition: all 0.8s;
   position:relative;
-  height: 150px;
+  height: auto;
 }
 .logo{
   height:100px;
